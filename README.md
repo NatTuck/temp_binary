@@ -1,6 +1,13 @@
 # TempBinary
 
-**TODO: Add description**
+The ```Temp.open``` function doesn't seem to like binary data.
+
+To get the weird behavor, clone then:
+
+```
+$ mix deps.get
+$ mix run demo.exs
+```
 
 ## Installation
 
